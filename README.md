@@ -97,6 +97,6 @@ If you have any questions or would like to get in touch, feel free to reach out:
 - 💼 **LinkedIn**: [Prabhat Ranjan](https://www.linkedin.com/in/prabhat-ranjan-980256a4/)
 - 💻 **GitHub**: [prabhat5172992](https://github.com/prabhat5172992/)
 - 📊 **Stack Overflow**: [Prabhat Ranjan](https://stackoverflow.com/users/7251146/prabhat-ranjan)
-- 🌐 **Portfolio website**: [Prabhat Resume](https://prabhatranjan.netlify.app/)
+- 🌐 **Portfolio website**: [Prabhat Resume](https://prabhat-profile.vercel.app/)
 
 Thank you for visiting my resume repository! 🌟
