@@ -4,7 +4,7 @@ Welcome to my resume repository! I am a Tech Lead with **8.6 years** of experien
 
 ## 👨‍💻 About Me
 
-I am a Tech Lead with extensive experience in web development, proficient in technologies like **JavaScript**, **React**, **Redux**, **Node.js**, and **TypeScript**. Over the years, I have worked in **BFSI**, **digital payment**, and **energy sectors**, building solutions that deliver business value and drive innovation. Currently working on **Open CCaaS**.
+I am a Tech Lead with extensive experience in web development, proficient in technologies like **JavaScript**, **React**, **Redux**, **Node.js**, **Python** and **TypeScript**. Over the years, I have worked in **BFSI**, **digital payment**, and **energy sectors**, building solutions that deliver business value and drive innovation. Currently working on **Open CCaaS**.
 
 ## 🛠️ Skills
 
