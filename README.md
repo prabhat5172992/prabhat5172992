@@ -1,4 +1,4 @@
-# 🎉 Prabhat Ranjan - Associate Tech Lead 🎉
+# 🎉 Prabhat Ranjan - Team Lead Software Engineering 🎉
 
 Welcome to my resume repository! I am a Tech Lead with **8.6 years** of experience in web development, specializing in building **scalable and efficient** web applications using modern JavaScript frameworks.
 
